@@ -10,10 +10,6 @@ Video Tutorial: https://youtu.be/dAp4a_fbGvo
 <img width="725" height="1225" alt="Screenshot 2026-05-13 alle 23 02 26" src="https://github.com/user-attachments/assets/4c7b3f36-6b0e-4775-9ae3-6c4f01567544" />
 <img width="715" height="1417" alt="Screenshot 2026-05-13 alle 23 02 49" src="https://github.com/user-attachments/assets/d21b1650-50a0-43ef-82f8-0de59ff6f2f7" />
 
-## 👨‍💻 Programmazione modulo
-
-* Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installaEsp32.php?progetto=vfdclock
-
 ---
 ## 🎛️ Schema pratico di assemblaggio
 
