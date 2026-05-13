@@ -5,6 +5,7 @@ Trasformo un semplice kit VFD in una sveglia da comodino smart! In questo video 
 ## 📘 Descrizione
 
 <img width="1920" height="1080" alt="EPXX-vfdclock" src="https://github.com/user-attachments/assets/b7913302-9d5f-4a2a-a434-2e61ea6d0ed8" />
+Video Tutorial: https://youtu.be/dAp4a_fbGvo
 <img width="1115" height="849" alt="vfdclock" src="https://github.com/user-attachments/assets/56b29484-1b35-4d81-b82a-dd3442589cd8" />
 <img width="725" height="1225" alt="Screenshot 2026-05-13 alle 23 02 26" src="https://github.com/user-attachments/assets/4c7b3f36-6b0e-4775-9ae3-6c4f01567544" />
 <img width="715" height="1417" alt="Screenshot 2026-05-13 alle 23 02 49" src="https://github.com/user-attachments/assets/d21b1650-50a0-43ef-82f8-0de59ff6f2f7" />
