@@ -1,3 +1,4 @@
+
 # VFDClock
 
 Trasformo un semplice kit VFD in una sveglia da comodino smart! In questo video ti mostro l'hacking completo: tecnologia VFD anni '80 riproposta in chiave moderna, display azzurro ipnotico, WiFi integrato per sincronizzazione NTP e funzioni smart. Il fascino retrò incontra il futuro! 
@@ -13,8 +14,7 @@ Video Tutorial: https://youtu.be/dAp4a_fbGvo
 ---
 ## 🎛️ Schema pratico di assemblaggio
 
-<img width="1588" height="1105" alt="Screenshot 2026-05-13 alle 23 07 10" src="https://github.com/user-attachments/assets/4e33c0ff-9a0b-457b-bf49-98e1aba22044" />
-
+<img width="2126" height="1488" alt="Screenshot 2026-06-01 alle 21 32 26" src="https://github.com/user-attachments/assets/9a489ebd-113a-44a4-a664-94ac6a0224af" />
 ---
 ## 🎛️ Materiali
 
@@ -30,6 +30,9 @@ Video Tutorial: https://youtu.be/dAp4a_fbGvo
 
 V1.0. - 21/01/2026
 *  Prima revisione
+
+V1.1
+* Cambiato lo schema di assemblaggio, in quanto esistono diverse schede USB-RS232 e alcune per qualche motivo non portano correttamente il VCC sul connettore frontale, per cui si deve prendere l'alimentazione dal connettore laterale.
 
 ---
 ## 🧾 Licenza
